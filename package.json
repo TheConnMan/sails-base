@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "Sails base project for rapid development",
   "dependencies": {
-    "bluebird": "^3.4.7",
-    "ejs": "2.3.4",
+    "bluebird": "^3.5.1",
+    "ejs": "^2.5.7",
     "express-http-proxy": "^0.11.0",
-    "fluent-logger": "^2.2.0",
+    "fluent-logger": "^2.6.1",
     "grunt": "1.0.1",
     "grunt-contrib-clean": "1.0.0",
     "grunt-contrib-coffee": "1.0.0",
@@ -20,14 +20,14 @@
     "grunt-sails-linker": "~0.10.1",
     "grunt-sync": "0.5.2",
     "include-all": "^1.0.0",
-    "log4js": "^1.0.1",
+    "log4js": "^1.1.1",
     "passport": "^0.3.2",
-    "passport-github2": "^0.1.10",
+    "passport-github2": "^0.1.11",
     "passport-google-oauth": "^1.0.0",
     "passport-local": "^1.0.0",
     "passport-twitter": "^1.0.4",
     "rc": "1.0.1",
-    "sails": "~0.12.7",
+    "sails": "^0.12.14",
     "sails-disk": "~0.10.9",
     "sails-mysql": "^0.11.5",
     "shuffle-array": "^1.0.0"
@@ -43,6 +43,6 @@
   },
   "author": "TheConnMan",
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.12.1"
   }
 }
